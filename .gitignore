@@ -1,6 +1,7 @@
 *.cbp
 *.o
 *.o.post
+*.os
 main.*.c
 Project.layout
 
